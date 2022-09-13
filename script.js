@@ -1,3 +1,5 @@
+getQuote();
+
 function getQuote() {
   fetch("https://quote-garden.herokuapp.com/api/v3/quotes/random")
     .then((response) => response.json())
