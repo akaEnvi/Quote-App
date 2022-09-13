@@ -61,6 +61,7 @@ main {
 /*------Quotes-------*/
 
 .list {
+  list-style: none;
   background-color: whitesmoke;
   margin: 3rem;
   padding: 2rem;
